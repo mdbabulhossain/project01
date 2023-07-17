@@ -1,0 +1,196 @@
+
+
+  
+    
+    .bannar{
+        width: 1920;
+        height:850;
+        background-color:rgb(245, 206, 206);
+        display:flex;
+        align-items: center;
+        padding: 30px;
+    }
+        .flowerpick{
+            width: 635px;
+            height:800px;
+        }
+        .btn{
+         background-color:rgb(225, 131, 131);
+         color: white;
+         border-radius: 5px;
+        }
+        .left>h2{
+            font-size: 75px;
+        }
+
+        .btn{
+            padding: 20px;
+            margin-top: 50px;
+            border: 0px;
+        }
+        .f-flower{
+            text-align: center;
+            margin-top: 30px;
+            font-size: 30px;
+            margin-left: 100px;
+            margin-top: 100px;
+            
+        }
+        .flower_r{
+            padding-top: 100px;
+            margin-left: 20px;
+            margin-top: 100px;
+            align-items: center;
+            display: flex;
+
+        }
+        .our_f1{
+           background-color: pink;
+           padding-top:20px;
+           border-radius: 160px 160px 0px 0px;
+            margin: 10px;
+            text-align: center;
+            font-size: 16px;
+        }
+        .our_f1>p{
+           font-size: 16px;
+        }
+        .our_f2{
+            background-color:#a0cacc;
+            padding-top:75px;
+            border-radius: 160px 160px 0px 0px;
+             margin: 10px;
+             text-align: center;
+             font-size: 16px;
+
+         }
+         .our_f3{
+            background-color: #a7a9a5;
+      ;
+            border-radius: 160px 160px 0px 0px;
+             margin: 10px;
+             text-align: center;
+             font-size: 16px;
+         }
+        .f3{
+            height: 440px;
+            width: 330px;
+        }
+
+        .f-service{ background-color: #dbdfd7;
+            margin-top: 50px;
+            align-items: center;
+          
+
+        }
+        .service_r{
+            
+            margin-left: 300px;
+            margin-top: 50px;
+            display: flex;
+            align-items: center;
+            padding-top: 35px;
+
+        }
+    .our_s1{
+        align-items: center;
+        font-size: 16px;
+        text-align: center;
+        }
+
+        .our_s2{ font-size: 16px;
+            text-align: center;
+            margin-left: 120px;
+        }
+
+        
+        .our_s3{font-size: 16px;
+            text-align: center;
+            margin-left: 120px;
+
+        }
+
+        .hot_deal{background-color: rgb(231, 221, 218);
+            width: 1920;
+        height:300;
+        display:flex;
+        align-items: center;
+        padding: 20px;
+        align-items: center;
+        margin-top:60px;
+
+        }
+        .hot_left{
+            align-items: center;
+            text-align: center;
+        }
+        .btn_h{
+            background-color: rgb(233, 82, 82);
+            color: white;
+            border-radius: 5px;
+            font-size: 30px;
+            padding: 10px 10px;
+        }
+        .hot_left>p{font-size: 16px;
+            font-weight: bold;
+
+        }
+        .hot_right{
+            margin: 200px;
+        }
+        span{
+            color: red;
+        }
+        .hot_left>h2{
+            font-size: 36px;
+        }
+        .instagram{
+           
+        }
+        .instagram_h{
+            text-align: center;
+            margin-top: 40px;
+
+        }
+        .instagram_img{
+            display: flex;
+            margin-top: 40px;
+            gap: 10px;
+            font-size: medium;
+            height: 300px;
+            margin-left: 90px;
+        }
+         .Search
+
+         {background-image: url("Rectangle\ 9.png");
+            width: 1400px;
+            height: 450px;
+            background-position: center;
+            background-size: cover;
+            align-items: center;
+           
+        
+         }
+         .Search_t{
+            text-align: center;
+            margin-top: 100px;
+            padding: 70px;
+
+         }
+         .sear_bar{
+            padding: 20px 150px;
+            border-radius: 5px;
+            border:0px;
+
+         }
+         .footer{
+            background-color: black;
+            color: white;
+            width: 1400px;
+            height: 350px;
+            align-items: center;
+            margin-top: 200px;
+         }
+         .footer_h2{text-align:center;
+            padding:50px;
+        }
